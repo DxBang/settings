@@ -1,1 +1,9 @@
-# hooks
+# default settings
+
+
+## .vscode
+
+
+## .git/hooks
+
+
