@@ -1,0 +1,7 @@
+* text=auto eol=lf
+.version -text
+*.json -text
+*.svg -text
+*.png binary
+*.jpg binary
+*.ttf binary
