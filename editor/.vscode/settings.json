@@ -1,0 +1,16 @@
+{
+	"editor.insertSpaces": false,
+	"files.eol": "\n",
+	"intelephense.files.exclude": [
+		"**/.git/**",
+		"**/.svn/**",
+		"**/.hg/**",
+		"**/CVS/**",
+		"**/.DS_Store/**",
+		"**/node_modules/**",
+		"**/bower_components/**"
+	],
+	"intelephense.environment.includePaths": [
+		"vendor"
+	]
+}
